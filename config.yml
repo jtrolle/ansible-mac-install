@@ -92,6 +92,7 @@ homebrew_cask_apps:
   - vlc
   - istat-menus
   - sublime-text
+  - dropbox
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_signin_dialog: yes
@@ -152,5 +153,5 @@ dockitems_enabled:
     path: "/Applications/Dash.app"
     pos: 14
   - name: Sublime Text
-    path: "/Applications/Dash.app"
+    path: "/Applications/Sublime Text.app"
     pos: 14
