@@ -83,12 +83,12 @@ homebrew_cask_apps:
   - alfred
   - iterm2
   - spotify
-  - virtualbox
+#  - virtualbox
   - dash
   - cleanmymac
   - etcher
   - yakyak
-  - docker-edge
+#  - docker-edge
   - vlc
   - istat-menus
   - sublime-text
@@ -140,13 +140,13 @@ dockitems_enabled:
   - name: iTerm
     path: "/Applications/iTerm.app"
     pos: 5
-- name: YakYak
+  - name: YakYak
     path: "/Applications/YakYak.app"
     pos: 6
   - name: Google Chrome
     path: "/Applications/Google Chrome.app"
     pos: 7
-- name: Spotify
+  - name: Spotify
     path: "/Applications/Spotify.app"
     pos: 8
   - name: Dash
